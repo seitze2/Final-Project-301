@@ -1,0 +1,2 @@
+INSERT INTO final_employees (employeeID, fullname, address, city, stateOfResidence, zipCode, payGrade, paySalary, jobPosition)
+VALUES(:employeeID, :fullname, :address, :city, :stateOfResidence, :zipCode, :payGrade, :paySalary, :jobPosition)
